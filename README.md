@@ -1,7 +1,7 @@
 ramones
 =======
 
-Scripts for Neuroimaging and Genetic data analysis
+**Scripts for Neuroimaging and Genetic data analysis**
 
 Introduction
 ============
